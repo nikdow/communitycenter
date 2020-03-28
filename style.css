@@ -1,0 +1,28 @@
+/*
+ Theme Name: Community Center
+ Theme URI: https://rescuethemes.com/themes-plugins/
+ Author: Rescue Themes
+ Author URI: https://rescuethemes.com/
+ Description: Everything you need to build a community and generate buzz for your organization.
+ Version: 1.3
+ Tags: white, green, blue, custom-menu, translation-ready, threaded-comments, theme-options, responsive-layout, two-columns, custom-colors, featured-images
+ License: GNU General Public License version 2.0
+ License URI: http://www.gnu.org/licenses/gpl-2.0.html
+	
+ Designed & Developed by Rescue Themes
+ All files, unless otherwise stated, are released under the GNU General Public License
+ version 2.0 (http://www.gnu.org/licenses/gpl-2.0.html)
+*/
+
+ @import url('css/style.css');
+
+/*
+	All default styles are located in /css/style.css
+	It's applied before any CSS you enter below or 
+	in the theme options area.
+	
+	Creating a child theme would be better though so your 
+	customizations don't get overwritten by a theme update.
+
+	http://codex.wordpress.org/Child_Themes
+*/
